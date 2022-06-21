@@ -21,3 +21,5 @@
 
 
 - How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+  I approached it by using the software design document. I started by writing each part one by one and checking it over to make sure I was hitting each part the client wanted. I will definitely use a software design document again since it was super helpful with clearly listing out what the client needed to be done. 
