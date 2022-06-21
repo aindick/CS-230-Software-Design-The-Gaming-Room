@@ -5,7 +5,7 @@
 
 - What did you do particularly well in developing this documentation?
 
-  I think i did really well explaining the pros and cons of each operating system.
+  I think I did really well explaining the pros and cons of each operating system.
 
 - What about the process of working through a design document did you find helpful when developing the code?
 
